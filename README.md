@@ -1,7 +1,7 @@
 # Duygu Ozcan  
 ### Linguist, Copywriter, Web Dev in training
 
-![RadBoys](/Intro%20to%20Markdown/Rad%20boys%20Fallout.PNG)
+![RadBoys](./Rad%20boys%20Fallout.PNG)
 
 ## Hey there!
 I am Duygu and I am an introverted extrovert. I can be quite outspoken when there is a situation that calls for it but I am usually not that loud. 
